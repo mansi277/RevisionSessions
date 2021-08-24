@@ -1,0 +1,57 @@
+.heading {
+  background-color: rgb(237, 166, 240);
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  padding: 10px;
+}
+.nav {
+  background-color: rgb(227, 134, 255);
+  padding: 10px;
+  text-align: right;
+}
+.nav span {
+  font-weight: bold;
+  color: rgb(50, 7, 75);
+  font-size: 15px;
+  margin: 5px;
+}
+.about h2 {
+  text-align: center;
+}
+.services h2 {
+  text-align: center;
+}
+.services .lists {
+  display: flex;
+  justify-content: center;
+}
+.services ul {
+  width: 300px;
+}
+.pricing h2 {
+  text-align: center;
+}
+.pricing table {
+  margin: auto;
+  border-collapse: collapse;
+}
+.pricing td,
+th {
+  padding: 5px;
+  border: 2px solid rgb(123, 63, 192);
+  font-size: 20px;
+}
+.contact h2 {
+  text-align: center;
+}
+.contact {
+  padding: 0px 10px 20px 10px;
+}
+.footer {
+  background-color: rgb(198, 138, 238);
+  color: white;
+  padding: 2px;
+}
+.footer p {
+  margin: 0;
+}
